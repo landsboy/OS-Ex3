@@ -1,2 +1,3 @@
 # OS-Ex3
-Exercise number 3 in the operating systems course
+The purpose of this assignment is to gain experience with concurrent
+programming and synchronization mechanisms by using threads, semaphore and more.
